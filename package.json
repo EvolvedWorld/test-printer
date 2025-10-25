@@ -10,10 +10,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native/new-app-screen": "0.82.1",
+    "@shopify/react-native-skia": "^2.3.6",
     "react": "19.1.1",
     "react-native": "0.82.1",
-    "@react-native/new-app-screen": "0.82.1",
-    "react-native-safe-area-context": "^5.5.2"
+    "react-native-blob-util": "^0.22.2",
+    "react-native-safe-area-context": "^5.5.2",
+    "react-native-thermal-pos-printer": "github:EvolvedWorld/react-native-thermal-pos-printer"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
